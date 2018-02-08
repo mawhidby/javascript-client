@@ -1,0 +1,26 @@
+{
+  "name": "indradb",
+  "version": "0.1.0",
+  "description": "Javascript client for IndraDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indradb/javascript-client.git"
+  },
+  "author": "Michael Whidby <whidby@me.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/indradb/javascript-client/issues"
+  },
+  "homepage": "https://github.com/indradb/javascript-client#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "dotenv": "^5.0.0"
+  },
+  "devDependencies": {
+    "moxios": "^0.4.0"
+  }
+}
